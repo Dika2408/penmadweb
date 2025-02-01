@@ -45,7 +45,7 @@
       <hr class="text-white" />
       <div class="text-center">
         <p class="mb-0">&copy; 2024. SMK NEGERI 4 Tasikmalaya. All rights reserved.</p>
-        <p class="mb-0">Made With By DIKA Dan ROMO</p>
+        <p class="mb-0">Made With By DIKA, ROMO And ZEX</p>
       </div>
     </div>
   </footer>
@@ -59,7 +59,7 @@ export default {
 
 <style scoped>
 .foot {
-  background-color: #33424e;
+  background-color: #224e72;
 }
 
 .footer {
