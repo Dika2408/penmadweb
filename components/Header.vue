@@ -69,10 +69,8 @@
             <NuxtLink to="/kontak" class="nav-link">Hubungi kami</NuxtLink>
           </li>
           <li class="me-3">
-            <NuxtLink to="/biodata" class="nav-link">PEMBUAT</NuxtLink>
-          </li>
-          <li class="me-3">
-            <NuxtLink to="/LOGIN" class="nav-link">LOGIN</NuxtLink>
+            <NuxtLink to="/login" class="nav-link" role="button">login</NuxtLink>
+
           </li>
         </ul>
       </div>
